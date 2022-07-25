@@ -1,3 +1,10 @@
 * {
   scroll-behavior: smooth;
 }
+.slider-bg-dark {
+  background-color: rgba(255, 192, 203, 0.329);
+}
+.catagory img {
+  width: 100px;
+  padding: 10px;
+}
